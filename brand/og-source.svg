@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="WANION social card">
-  <rect width="1200" height="630" fill="#111218"/>
-  <rect x="64" y="64" width="1072" height="502" rx="32" fill="#171720"/>
-  <g fill="#7657F6" transform="translate(120 145) scale(5.25)"><path d="m8 10 20 16v24l-12-9V25l-8-7Z"/><path d="m56 10-20 16v24l12-9V25l8-7Z"/><path d="m29 26 3 3 3-3v29l-3 5-3-5Z"/></g>
-  <text x="520" y="310" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="5">WANION</text>
-  <text x="526" y="365" fill="#A9A5B4" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="4">RUN BY STUDIO HOOJE</text>
-</svg>
