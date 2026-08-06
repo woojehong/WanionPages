@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="남성 캐릭터 기본 실루엣">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="64%">
+      <stop offset="0" stop-color="#8a70ff" stop-opacity=".2"/>
+      <stop offset=".58" stop-color="#201a36" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#09090e"/>
+    </radialGradient>
+    <linearGradient id="figure" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2d2d38"/>
+      <stop offset="1" stop-color="#16161e"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="44" fill="url(#bg)"/>
+  <path d="M166 191c0-76 36-125 90-125s90 49 90 125v38c0 43-18 78-48 96v31l65 20c62 19 101 66 112 136H37c11-70 50-117 112-136l65-20v-31c-30-18-48-53-48-96z" fill="url(#figure)" stroke="#8a70ff" stroke-opacity=".58" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M179 156c13-61 43-90 81-90 47 0 78 38 85 102-26-16-56-25-92-25-29 0-53 5-74 13z" fill="#111118"/>
+  <path d="M150 376c29 38 64 57 106 57s77-19 106-57" fill="none" stroke="#8a70ff" stroke-opacity=".18" stroke-width="5"/>
+</svg>
