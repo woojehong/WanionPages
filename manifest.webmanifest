@@ -1,29 +1,29 @@
 {
-  "id": "/WanionPages/",
+  "id": "/",
   "name": "WANION — 와니온",
   "short_name": "WANION",
   "description": "한국 와우의 길드·공격대·연합을 위한 레이드 운영 플랫폼",
   "lang": "ko-KR",
-  "start_url": "/WanionPages/",
-  "scope": "/WanionPages/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#09090D",
   "theme_color": "#09090D",
   "icons": [
     {
-      "src": "/WanionPages/brand/icon-192.png",
+      "src": "/brand/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/WanionPages/brand/icon-512.png",
+      "src": "/brand/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/WanionPages/brand/maskable-512.png",
+      "src": "/brand/maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
