@@ -1,2 +1,5 @@
 .meta{display:flex;flex-wrap:wrap;gap:8px 18px;margin:18px 0 30px;padding-bottom:18px;border-bottom:1px solid var(--line);font-size:13px;color:var(--sub)}
 .checklist li{margin:.45rem 0}.table-wrap{overflow-x:auto}table{width:100%;border-collapse:collapse;margin:18px 0}th,td{padding:12px;border:1px solid var(--line);text-align:left;vertical-align:top;color:var(--sub)}th{color:var(--text);background:var(--surface)}
+
+/* Readable Korean operational examples. */
+main{word-break:keep-all;overflow-wrap:anywhere}main pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit;padding:18px;border:1px solid #303440;border-radius:10px;line-height:1.8}main li{margin-bottom:.55em}
